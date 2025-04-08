@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Header](images/banner.png)
+![Header](/images/banner.png)
+
 
 
 <!--
