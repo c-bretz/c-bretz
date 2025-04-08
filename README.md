@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Header](./github-header-image.png)
+![Header](images/github-header-image.png)
+![Alt text](images/github-header-image.png)
 
 
 <!--
