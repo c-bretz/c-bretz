@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Header](./images/banner.png)
 
 
