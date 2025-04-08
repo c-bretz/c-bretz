@@ -1,6 +1,8 @@
 ## Hi there 👋
 ![Header](images/github-header-image.png)
 ![Alt text](images/github-header-image.png)
+github-header-image.png
+![Image Alt text](images/github-header-image.png "profile banner"))
 
 
 <!--
