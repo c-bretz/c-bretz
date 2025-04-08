@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](images/github-header-image.png)
+![Header](images/banner.png)
 
 
 
