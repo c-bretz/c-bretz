@@ -1,14 +1,12 @@
-![Header](./images/banner.png)
+![Header](/banner.png)
 
+- 🔍 Exploring open source and analytics one dataset at a time
+- 📊 Into data visualization, SQL and asking too many questions
+- 🧠 Learning Python and ML bit by bit
+- 👨‍💻 Passionate about making data useful and accessible
 
 
 <!--
-
-🔍 Exploring open source and analytics one dataset at a time
-📊 Into data visualization, SQL and asking too many questions
-🧠 Learning Python and ML bit by bit
-👨‍💻 Passionate about making data useful and accessible
-
 **c-bretz/c-bretz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
